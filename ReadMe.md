@@ -1,0 +1,1 @@
+This is the file from openAI embeddings example at https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb/
